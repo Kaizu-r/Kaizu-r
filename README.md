@@ -99,8 +99,8 @@ I have designed and implemented projects ranging from **custom parsers and rende
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaizu-r&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizu-r&layout=compact&theme=default&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -108,7 +108,7 @@ I have designed and implemented projects ranging from **custom parsers and rende
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=minimal&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaizu-r&theme=minimal&hide_border=true"/>
 </p>
 
 ---
