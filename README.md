@@ -91,6 +91,7 @@ I have designed and implemented projects ranging from **custom parsers and rende
 **HACK4GOV (2025)**
 - Rank **4th place** with Team 404Overflow in a highly competitive CTF hackathon, besting many of the **12** participating teams in the region
 - Ranked **9th place** in in **Individual Scores** by solving complex forensics and network traffic problems
+
 **KadaCareer × Home Credit HackAda AI in UX for Fintech (2025)**
 - Participated in a team-based UX hackathon, utilizing AI-driven technologies to solve fintech problems
 
